@@ -15,20 +15,10 @@ def countConsonant (s):
     # do not use lines longer than 80 characters long
 
     # INSERT YOUR CODE HERE, replacing 'pass'
-    
-    count = 0
-    vowel = ('')
-    other = '',',','.','""'
-    for i in range (len(s)):
-        if s[i]==(vowel):
-            count = 0
-        elif s[i]==other:
-            count = 0
-        else:
-            count = count + 1
-        
-    return count
+    pass
 
 print (countConsonant ('"Carpe diem", every day.')) # should return 8
+
+
 
 
