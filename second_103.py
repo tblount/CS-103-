@@ -10,5 +10,5 @@ def secondLetter (s):
 
     return s[1]
 
-print (secondLetter ('garden'))
+print (secondLetter('garden'))
 
